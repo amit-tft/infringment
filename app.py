@@ -17,7 +17,7 @@ from pptx import Presentation
 import tensorflow as tf
 import numpy as np
 import openai
-import os
+
 
 pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
 
